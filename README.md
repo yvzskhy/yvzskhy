@@ -1,5 +1,9 @@
 ### Hi there 👋
-
+    My name is Yavuz Selim Kahyaoğlu.
+    I'm 18 years old.
+    Currently, I'm studying Computer Science in Bilkent University and learning Java.
+    
+     
 <!--
 **yvzskhy/yvzskhy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
